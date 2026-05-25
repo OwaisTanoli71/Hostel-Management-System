@@ -1,17 +1,15 @@
-<h1 align="center">🏨 Smart Hostel Management System</h1>
+# 🏨 Smart Hostel Management System
 
-<p align="center">
-  A full-stack web application for managing hostel operations built with <strong>PHP 8</strong>, <strong>MySQL</strong>, and <strong>PDO</strong>.
-  <br/>
-  Supports dual-role access (Admin & Student), room allocation with gender-matching, fee tracking, complaint management, and real-time notifications.
-</p>
+A full-stack web application for managing hostel operations built with **PHP 8**, **MySQL**, and **PDO**.
+<br/>
+Supports dual-role access (Admin & Student), room allocation with gender-matching, fee tracking, complaint management, and real-time notifications.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-8.x-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PDO-Prepared%20Statements-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/XAMPP-Compatible-FB7A24?style=for-the-badge&logo=apache&logoColor=white"/>
-  <img src="https://img.shields.io/badge/License-Academic-green?style=for-the-badge"/>
+<p>
+  <img src="https://img.shields.io/badge/PHP-8.x-777BB4?style=flat-square&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-8.0-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PDO-Prepared%20Statements-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/XAMPP-Compatible-FB7A24?style=flat-square&logo=apache&logoColor=white"/>
+  <img src="https://img.shields.io/badge/License-Academic-green?style=flat-square"/>
 </p>
 
 ---
